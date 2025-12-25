@@ -1,4 +1,4 @@
-<h1>Rembo</h1>
+<h1>Bogibekov Xudoyberdi</h1>
 <h3>Junior developer</h3>
 
 
